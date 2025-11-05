@@ -1,0 +1,47 @@
+body { 
+    background-color:white;
+    text-align: center;
+    padding: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+li {
+    background-color:lightcoral;
+    border-radius: 8px;
+    
+}
+li a {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    display: block;
+}
+.이상해씨 {
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 5px 0 0 0;
+}
+.파이리 {
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 5px 0 0 0;
+}
+.꼬부기 {
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin: 5px 0 0 0;
+}
